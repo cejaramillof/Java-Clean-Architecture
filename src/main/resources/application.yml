@@ -1,0 +1,7 @@
+api:
+  baseURL: "https://rickandmortyapi.com/api/"
+  paths:
+    character: "character/{characterId}"
+    characters: "character"
+    episode: "episode/{episodeId}"
+    episodes: "episode"
